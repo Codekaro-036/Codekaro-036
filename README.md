@@ -7,6 +7,8 @@
 
 <br/>
 
+---
+
 ## 🙋‍♀️ About Me
 
 <p align="center">
@@ -22,8 +24,6 @@
 <p align="center">
   🏢 Internship experience in <b>Government & Industry sectors</b>
 </p>
-
----
 
 ## 🛠️ Skills & Technologies
 
