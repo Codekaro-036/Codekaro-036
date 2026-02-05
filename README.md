@@ -9,8 +9,6 @@
 
 ## 🙋‍♀️ About Me
 
-<img align="right" alt="coding" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
 - 🎓 B.Tech **CSE (Artificial Intelligence)** student  
 - 💻 Passionate **Web Developer**  
 - 🌐 Working with **JavaScript, PHP, MySQL, HTML, CSS**  
