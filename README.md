@@ -4,9 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=620&lines=Web+Developer;AI+Enthusiast;JavaScript+%7C+Java+%7C+Python;Building+Clean+and+Scalable+Projects" />
 </p>
-
 <br/>
-
 ---
 
 ## 🙋‍♀️ About Me
@@ -54,8 +52,6 @@
 - 🏛 **Revenue Digitization Intern** — Government of Bihar  
 - 🏭 **Industrial Trainee** — Indian Oil Corporation Limited (IOCL)  
 - ☁️ **Salesforce Developer Intern (Virtual)**  
-
----
 
 ## 🌐 Connect With Me
 
