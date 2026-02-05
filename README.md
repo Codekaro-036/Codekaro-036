@@ -28,22 +28,22 @@
 ## 🛠️ Skills & Technologies
 
 ### 👩‍💻 Programming
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
 </p>
 
 ### 🌐 Frontend
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind" />
 </p>
 
 ### 🔧 Backend & Database
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=php,mysql" />
 </p>
 
 ### 🧰 Tools
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
@@ -59,7 +59,7 @@
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
