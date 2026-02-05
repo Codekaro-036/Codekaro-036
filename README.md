@@ -2,41 +2,48 @@
 <h3 align="center">B.Tech CSE (Artificial Intelligence) | Web Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=650&lines=Web+Developer;AI+Enthusiast;JavaScript+|+Java+|+Python;Building+Clean+and+Scalable+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=620&lines=Web+Developer;AI+Enthusiast;JavaScript+%7C+Java+%7C+Python;Building+Clean+and+Scalable+Projects" />
 </p>
 
----
+<br/>
 
 ## 🙋‍♀️ About Me
 
-- 🎓 B.Tech **CSE (Artificial Intelligence)** student  
-- 💻 Passionate **Web Developer**  
-- 🌐 Working with **JavaScript, PHP, MySQL, HTML, CSS**  
-- 🤖 Exploring **AI & Machine Learning**  
-- 🏢 Internship experience in **Government & Industry sectors**  
-- 🚀 Open to **Internships & Entry-Level Opportunities**  
+<p align="center">
+  🎓 B.Tech <b>CSE (Artificial Intelligence)</b> student &nbsp;•&nbsp;
+  💻 Passionate <b>Web Developer</b> &nbsp;•&nbsp;
+  🤖 Exploring <b>AI & Machine Learning</b>
+</p>
+
+<p align="center">
+  🌐 JavaScript · PHP · MySQL · HTML · CSS  
+</p>
+
+<p align="center">
+  🏢 Internship experience in <b>Government & Industry sectors</b>
+</p>
 
 ---
 
 ## 🛠️ Skills & Technologies
 
 ### 👩‍💻 Programming
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
 </p>
 
 ### 🌐 Frontend
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind" />
 </p>
 
 ### 🔧 Backend & Database
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=php,mysql" />
 </p>
 
 ### 🧰 Tools
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
@@ -52,7 +59,7 @@
 
 ## 🌐 Connect With Me
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
